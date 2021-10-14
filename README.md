@@ -1,0 +1,1 @@
+In this project I will be making a webpage using mostly javascript to showcase the new skills I learned for DOM manipulation. This will be something like a sketching app using a grid of squares which change their color when hovered.
